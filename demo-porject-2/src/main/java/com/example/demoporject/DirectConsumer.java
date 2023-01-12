@@ -26,7 +26,7 @@ public class DirectConsumer {
 	    		 };
 	    
 	    		 
-	    		 c1.basicConsume("AC", true,d,consumerTag -> {
+	    		 c1.basicConsume("TV", true,d,consumerTag -> {
 	    			 
 	    		 });
 	}
